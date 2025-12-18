@@ -27,15 +27,16 @@ const About = () => {
             <h2 className="text-4xl md:text-5xl lg:text-6xl font-light tracking-tighter mb-8 text-accent-lavender">
               About
             </h2>
-            <div className="space-y-6 text-base md:text-lg font-light text-white/70 leading-relaxed"><p>
-              I am <span class="text-white font-medium">Vladimir Vujasinović</span>, a 3D Generalist and Creative Lead dedicated to crafting meaningful digital experiences. 
-            </p>
-            <p>
-              With a <span class="text-white">Bachelor with Honours in Computer Graphic Engineering</span>, my work sits at the intersection of technical production and artistic storytelling. I specialize in 3D modeling, motion design, and producing high-end promotional content.
-            </p>
-            <p>
-              Based in <span class="text-white">Novi Sad, Serbia</span>, working globally.
-            </p>
+            <div className="space-y-6 text-base md:text-lg font-light text-white/70 leading-relaxed">
+              <p>
+                I am <span className="text-white font-medium">Vladimir Vujasinović</span>, a 3D Generalist and Creative Lead dedicated to crafting meaningful digital experiences.
+              </p>
+              <p>
+                With a <span className="text-white">Bachelor with Honours in Computer Graphic Engineering</span>, my work sits at the intersection of technical production and artistic storytelling. I specialize in 3D modeling, motion design, and producing high-end promotional content.
+              </p>
+              <p>
+                Based in <span className="text-white">Novi Sad, Serbia</span>, working globally.
+              </p>
             </div>
           </motion.div>
 
